@@ -29,6 +29,6 @@ Por ello, priorizamos la métrica de **Recall (Sensibilidad)**:
 - **Sostenibilidad Sanitaria:** Mantener el umbral de decisión estándar protege la economía de los pacientes humildes e impide la saturación de los laboratorios de salud con falsas alarmas masivas innecesarias, logrando el equilibrio perfecto entre ética médica y viabilidad financiera.
 
 ## 🛠️ Estructura del Repositorio
-- `Practica2_Josue_Diaz_Contreras.ipynb`: Jupyter Notebook que contiene el pipeline de desarrollo completo (Extracción, Limpieza mediante Pandas, Visualización con Seaborn/Matplotlib y modelado con Scikit-Learn).
+- `proyecto3_Josue_Diaz_EDA_Riesgo_Cardiovascular.ipynb`: Jupyter Notebook que contiene el pipeline de desarrollo completo (Extracción, Limpieza mediante Pandas, Visualización con Seaborn/Matplotlib y modelado con Scikit-Learn).
 - `heart_disease.csv`: Conjunto de datos original del estudio Framingham.
 - `README.md`: Informe ejecutivo actual para la alta dirección.
